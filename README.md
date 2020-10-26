@@ -1,0 +1,1 @@
+Barebode .zshrc
